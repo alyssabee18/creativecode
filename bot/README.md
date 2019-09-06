@@ -6,6 +6,6 @@ Before I began this project, I wanted the idea of my bot to center around the Ho
 
 The concept for my profile picture and Twitter bio came from me talking with a few friends about Skynet, which was followed by an entertaining coversation about HAL 9000 from A Space Odyssey. The header image came from an inside joke that began around the time I took an Isaac Asimov class last semester. 
 
-The code allows for 253,028 unique methods of tweets to appear. 
+The code allows for 253,028 unique methods of tweets to appear and can tweet up to every 6 hours. 
 
 The bot is hosted at [Cheap Bots Done Quick](https://cheapbotsdonequick.com), so the code is a [Tracery](http://www.tracery.io/) grammar.
