@@ -36,6 +36,10 @@ Well, are you off to?
 But I'm scared and I'm in the torture chamber.
 A fly buzzes in front of the tower.
 
+That was a very dangerous secret.
+When I broke the window, I was scared of dying.
+The Hybrid is real.
+
 And I am falling, Clara.
 And I am going to do this, Clara ...
 
