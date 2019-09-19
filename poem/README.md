@@ -19,3 +19,40 @@ It is strongly implied by the end of series nine that “The Hybrid” is a comb
 The Doctor uses the confession dial as an opportunity to bring Clara back from the dead.  He will do so when he comes face to face with his captors. 
 
 Ultimately, I want this poem to reflect random revelations the Doctor has throughout the episode Heaven Sent.  Perhaps the poetry will highlight moments of pain, anger, or hope - from time to time, Clara will appear as a hallucination and convince the Doctor to push on, to prevail, and win the war.  No matter the output, I imagine the code will allow its audience to see a different aspect of Heaven Sent each time. 
+
+Some of my favorite lines that have been generated so far:
+
+The garden is laid out with a roaring log fire.
+He goes to the side.
+And the stars, they weren't in the same time zone.
+That's the only way.
+According to them, there's this mountain of pure diamond.
+Do I have to be kept!
+
+There's a storm on the ground far below.
+The equipment in that room is yours, so work it.
+I have to find you, and I run to the city.
+Well, are you off to?
+But I'm scared and I'm in the torture chamber.
+A fly buzzes in front of the tower.
+
+The last square on the diamond mountain.
+When I was sure.
+A very, very dangerous secret.
+The bloodstains on the wind.
+Possibly very, very dangerous secret.
+Or it will have passed!
+So, I'm not the only way.
+What do you want me to say?
+What sort of a triangle.
+So, someone is trying to give me a hint?
+But I can never tell.
+
+And I am falling, Clara.
+And I am going to do this, Clara ...
+
+
+
+
+
+
