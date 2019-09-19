@@ -14,7 +14,7 @@ And he doesn’t.
 
 For 4.5 billion years, the Doctor is stuck inside a time loop, a hell personalized just for him through what is referred to as a “confession dial.”  Designed meticulously by Gallifreyans, the dial attempts to receive an answer in question from a complex, very dangerous Gallifreyan legend known as, “A hybrid creature, thought to be crossbred from two warrior races, would stand over the ruins of Gallifrey and unravel the Web of Time, breaking a billion billion hearts to heal its own” (TARDIS Data Core). 
 
-It is strongly implied by the end of series nine that “The Hybrid” is a combination of Clara Oswald and the Doctor -  both become reckless when death or separation is presented as an outcome that must be faced.  In Clara Oswald’s case, she has been killed an episode prior (Face the Raven) by a raven on Trap Street.  
+It is strongly implied by the end of series nine that “The Hybrid” is a combination of Clara Oswald and the Doctor -  both become reckless when death or separation is presented as an outcome that must be faced.  In Clara Oswald’s case, she has been killed an episode prior (Face the Raven).  
 
 The Doctor uses the confession dial as an opportunity to bring Clara back from the dead.  He will do so when he comes face to face with his captors. 
 
