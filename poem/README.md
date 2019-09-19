@@ -4,7 +4,7 @@ This project is a poem generator in Python. To see it run, download the [python 
 
 This script also assumes you have a file called "HEAVENSENT.txt" in the same directory that the script runs from. The contents of that file can be anything you want to appropriate from. 
 
-I worked with two friends to install and correctly run Markovify.  This program can pull random parts of the text that I have uploaded to use as output. Based on the range I have chosen and "make short sentences" line of code that I added, my program is capable of printing a poem. 
+I worked with two friends to install and correctly run Markovify.  This program can pull random parts of the text that I have uploaded to use as output. Based on the range I have chosen and "make short sentence" line of code that I added, my program is capable of printing a poem. 
 
 AN EXPLANATION OF THE SCRIPT I CHOSE:
 
@@ -35,18 +35,6 @@ I have to find you, and I run to the city.
 Well, are you off to?
 But I'm scared and I'm in the torture chamber.
 A fly buzzes in front of the tower.
-
-The last square on the diamond mountain.
-When I was sure.
-A very, very dangerous secret.
-The bloodstains on the wind.
-Possibly very, very dangerous secret.
-Or it will have passed!
-So, I'm not the only way.
-What do you want me to say?
-What sort of a triangle.
-So, someone is trying to give me a hint?
-But I can never tell.
 
 And I am falling, Clara.
 And I am going to do this, Clara ...
