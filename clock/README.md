@@ -1,6 +1,6 @@
 # Morse Code Clock
 
-This is an abstract clock I made with p5.js. The you can see it running by copying this javascript file [the javascript file](MORSE-CLOCK.js)  into a [p5.js editor](https://editor.p5js.org/alyssabee18/sketches/2bNOpMx_c) and run it.
+This is a clock that I created with p5.js. The you can see it running by copying this javascript file [the javascript file](MORSE-CLOCK.js)  into a [p5.js editor](https://editor.p5js.org/alyssabee18/sketches/2bNOpMx_c) and run it.
 
 The time is represented through morse code, hours and seconds are printed according to the time on the devise that is running my code, and hours are always printed above seconds. I chose a black and white theme for stylistic reasons, also, the examples of morse posters I viewed online seemed to keep a similar theme - such as this Telegraph (https://www.poster-rama.com/products/1840-morse-code-telegraph-sign-military-maritime-nautical-patent-art-poster?variant=49615173076.)
 
