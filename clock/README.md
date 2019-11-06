@@ -1,9 +1,13 @@
-# Concentric Clock
+# Morse Code Clock
 
-This is an abstract clock I made with p5.js. The easiest way to see it in action is to copy the contents of [the javascript file](concentric-clock.js)  into a [p5.js editor](http://editor.p5js.org) and run it.
+This is an abstract clock I made with p5.js. The you can see it running by copying this javascript file [the javascript file](MORSE-CLOCK.js)  into a [p5.js editor](https://editor.p5js.org/alyssabee18/sketches/2bNOpMx_c) and run it.
 
-To read the clock's time, you have to count the number of dots in each circle. The inner ring (green) is hours, the middle ring (purple) is the number of minutes past the hour, and the outer (red) ring is the number of seconds past the minute.
+The time is represented through morse code, hours and seconds are printed according to the time on the devise that is running my code, and hours are always printed above seconds. I chose a black and white theme for stylistic reasons, also, the examples of morse posters I viewed online seemed to keep a similar theme - such as this Telegraph (https://www.poster-rama.com/products/1840-morse-code-telegraph-sign-military-maritime-nautical-patent-art-poster?variant=49615173076.)
 
-The concepts demonstrated in the code rely on some of the examples shared by Golan Levin in the instructions for his class's [clock assignment](https://github.com/golanlevin/lectures/tree/master/lecture_clock), and the look of it sort of resembles the soft bubbles of [bokeh photography](https://en.wikipedia.org/wiki/Bokeh).
 
-I like the abstract nature of this clock, even though that abstractness makes it less useful. I figure there are so many ways now to know what time it is (as I type this, I can see the current time displayed by my computer, by the watch on my wrist, and my phone on the desk next to me) that the goal of a time-based art work isn't so much to tell us what time it is but rather to encourage us to think about time and its representation.
+For this project, I was able to learn through Computer Science Tutoring, and references on the p5.js website (https://p5js.org/reference/#/p5/textFont) as well as fonts that were reccommended for JavaScript. I selected the font "Courier New" because I felt that it represented the theme of my Morse clock well. 
+
+
+This clock was inspired by the representation of time in the film Interstellar.  Two vital characters, Cooper, and his daughter Murph, are connected through time and space by two watches.  Further into Interstellar, Cooper travels into the Tesseract (https://interstellarfilm.fandom.com/wiki/Tesseract), a five dimensional structure where every moment in time can be manipulated. Cooper uses gravity within the Tesseract to send Murph a message in Morse Code - this message, reads "S.T.A.Y" - a beautiful, yet haunting word that reflects one of the deeper meanings of the film.
+
+Time is Interstellar is something that becomes a barrier.  However, it is proven that time cannot put boundaries between human emotion, no matter its tampers with, it cannot challenge the power of love. 
