@@ -2,7 +2,7 @@
 
 This is a clock that I created with p5.js. The you can see it running by copying this javascript file [the javascript file](MORSE-CLOCK.js)  into a [p5.js editor](https://editor.p5js.org/alyssabee18/sketches/2bNOpMx_c) and run it.
 
-The time is represented through morse code, hours and seconds are printed according to the time on the devise that is running my code, and hours are always printed above seconds. I chose a black and white theme for stylistic reasons, also, the examples of morse posters I viewed online seemed to keep a similar theme - such as this Telegraph (https://www.poster-rama.com/products/1840-morse-code-telegraph-sign-military-maritime-nautical-patent-art-poster?variant=49615173076.)
+The time is represented through morse code, hours and seconds are printed according to the time on the devise that is running my code, and hours are always printed above seconds. I chose a blue theme for stylistic reasons - it allows the Morse to pop out. 
 
 
 For this project, I was able to learn through Computer Science Tutoring, and references on the p5.js website (https://p5js.org/reference/#/p5/textFont) as well as fonts that were reccommended for JavaScript. I selected the font "Courier New" because I felt that it represented the theme of my Morse clock well. 
