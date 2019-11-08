@@ -1,8 +1,16 @@
+function setup() {
+createCanvas(650, 550);
+//textSize(width / 45); 
+textFont('Courier New');
+// font credit to JavaScript fonts
+//textAlign(CENTER,CENTER);  
+  
 }
 
 //create black background 
 function draw() {
   background(0);
+  // credit https://p5js.org/reference/#/p5/background
 colorMode(HSB);
 background(255, 204, 100); 
 
