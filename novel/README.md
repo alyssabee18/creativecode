@@ -6,5 +6,5 @@ For my novel, I decided to work through Python Notebook to generate nearly 400 p
 
 I recieved help for this project from the html presented in this [Python Notebook](https://colab.research.google.com/drive/1-xEMjJ-6zbzA_c8pqnQOKRVIe8Jwdwna).
 
-You can view and run my code [here](https://colab.research.google.com/drive/11b2t2dK2fthQxVrvJ01dUP8Fd7LX1gJi)
+You can view and run my code [here](https://colab.research.google.com/drive/11b2t2dK2fthQxVrvJ01dUP8Fd7LX1gJi).
 
