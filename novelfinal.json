@@ -1,0 +1,48 @@
+!pip install weasyprint
+
+import random 
+#AURORA lyrics
+novel = '<p>'
+
+#name of novel
+novel ='<h1>    a different kind of human  </h1> <p>'
+#code prints range in 10000
+for line in range(10000):
+  novel += '</p><p>'
+  s  = random.randrange(0,15)
+  if (s < 4):
+#print and repeat quote 
+    novel +="<em> hello?       hello?       hello?        hello?        hello? </em>"  
+#seperate line > 
+  elif (s > 2):
+    novel += 'I-g u e s s-y o u-a r e-a-d i f f e r e n t-k i n d-o f-h u m a n'
+
+#open html code   
+with open ('in.txt', 'w') as f:
+  f.write(novel)
+#color cr https://www.w3schools.com/css/css3_gradients.asp
+  html_template = f"""
+  <html>
+  <body style="background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);">
+    <head>
+    <title>A DIFFERENT KIND OF HUMAN</title>
+    </style>
+    <pre>
+
+  </head>
+
+  {novel}</div>
+
+  <pre>
+   
+  
+
+</html>
+"""
+
+#open file
+import random
+from weasyprint import HTML
+
+#final line to open PDF
+HTML(string=html_template).write_pdf("adifferentkindofhuman.pdf")
